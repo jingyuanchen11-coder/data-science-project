@@ -40,5 +40,5 @@ Follow these steps to reproduce the analysis locally:
 
 ### Step 1: Clone the Repository
 ```bash
-git clone [https://github.com/你的GitHub用户名/data-science-project.git](https://github.com/你的GitHub用户名/data-science-project.git)
+git clone [https://github.com/jingyuanchen11/data-science-project.git](https://github.com/jingyuanchen11/data-science-project.git)
 cd data-science-project
